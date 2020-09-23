@@ -68,3 +68,4 @@ node_modules/
 # Arquivos
 functions/Vergara.js
 public/js/init-firebase.js
+functions/autott.json
